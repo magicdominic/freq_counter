@@ -1,4 +1,5 @@
-
+# function
+Shows frequency of pin 14 through a website on localhost/count.html
 
 # install webserver
 ->lighttpd
